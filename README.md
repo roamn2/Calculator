@@ -1,4 +1,4 @@
 # Calculator
 
-Idea & Design:           roamn2
-JavaScript programming:  HelloMartin
+Idea & Design (HTML, CSS):   roamn2
+JavaScript programming:      HelloMartin
