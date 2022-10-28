@@ -1,1 +1,71 @@
-
+			.main {
+				margin: auto;
+				border: 2px solid black;
+				width: 280px;
+				height: 410px;
+				font-family: cascadia code;
+				cursor: cell;
+			}
+			.window {
+				margin: auto;
+				border: 2px solid black;
+				width: 273px;
+				height: 48px;
+			}
+			.button {
+				margin: 2px;
+				border: 1px solid black;
+				width: 64px;
+				height: 32px;
+				float: left;
+				color: black;
+				user-select: none; 
+				-webkit-user-select: none;     
+                -moz-user-select: none;
+                -ms-user-select: none; 
+				text-align: center;
+			}
+			.button2 {
+				margin: 2px;
+				border: 1px solid black;
+				width: 64px;
+				height: 32px;
+				float: left;
+				color: black;
+				background-color: gray;
+				user-select: none; 
+			    -webkit-user-select: none;        
+                -moz-user-select: none;
+                -ms-user-select: none; 
+				text-align: center;
+			}
+			.button3 {
+				margin: 2px;
+				border: 1px solid black;
+				width: 64px;
+				height: 32px;
+				float: left;
+				color: black;
+				background-color: rgb(223, 223, 223);
+				user-select: none; 
+			    -webkit-user-select: none;        
+                -moz-user-select: none;
+                -ms-user-select: none; 
+				text-align: center;
+			}
+			.button:hover {
+				background-color: black;
+				color: white;
+			}
+			.button2:hover {
+				background-color: black;
+				color: white;
+			}
+			.button3:hover {
+				background-color: black;
+				color: white;
+			}
+			.button4:hover {
+				background-color: black;
+				color: white;
+			}
